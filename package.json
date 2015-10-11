@@ -28,5 +28,10 @@
   "engines": {
     "node": ">= 0.10",
     "npm": ">= 1.2.10"
+  },
+  "dependencies": {
+    "dss": "^1.0.4",
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0"
   }
 }
