@@ -1,0 +1,25 @@
+{
+  "name": "gulp-dss-handlebars",
+  "version": "0.0.1",
+  "description": "Runs DSS on files, and then runs them through handlebars to output an index.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "Adam Heim",
+    "url": "https://github.com/truckingsim"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "mocha": "^2.3.3",
+    "mocha-lcov-reporter": "^1.0.0",
+    "should": "^7.1.0",
+    "stream-array": "^1.1.1",
+    "stream-assert": "^2.0.3"
+  }
+}
